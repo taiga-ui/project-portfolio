@@ -1,1 +1,9 @@
-# Repository-name-project-portfolio
+# Project Portfolio
+
+これまでチームで開発したアプリをまとめています。
+
+## Projects
+
+- Stepin
+- しめきりん
+- じじいニュース
