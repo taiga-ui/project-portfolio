@@ -4,6 +4,6 @@
 
 ## Projects
 
-- Stepin
+- stepin
 - しめきりん
 - じじいニュース
