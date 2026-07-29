@@ -1,4 +1,4 @@
-# 📰 Jijii News
+# 📰 jijii News
 
 > **「ニュースを見なきゃと思っているのに、結局見ない学生」の最初の一歩を後押しすることを目的に開発したニュースアプリです。**
 
@@ -101,11 +101,11 @@ ReactのStateを用いて通知対象カテゴリーを管理し、Propsを介�
 
 ### Repository
 
-（GitHub Repository）
+[GitHubはこちら](https://github.com/Tanaka2006/jijii_news)
 
 ### Demo
 
-https://ai-hackathon-lemon.vercel.app/
+[アプリを試す](https://ai-hackathon-lemon.vercel.app/)
 
 ---
 
