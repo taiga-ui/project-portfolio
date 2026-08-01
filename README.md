@@ -7,3 +7,4 @@
 - stepin
 - しめきりん
 - じじいニュース
+- Task Manager
