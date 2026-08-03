@@ -104,7 +104,7 @@
 
 ### ホーム画面
 
-<img width="911" height="1797" alt="S__19922947_0" src="https://github.com/user-attachments/assets/17203b11-514e-4bb6-b0d9-47388c10bb59" />
+<img width="222" height="480" alt="S__19922947_0" src="https://github.com/user-attachments/assets/17203b11-514e-4bb6-b0d9-47388c10bb59" />
 
 ### 課題詳細画面
 
