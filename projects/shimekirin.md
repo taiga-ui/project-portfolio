@@ -108,15 +108,15 @@
 
 ### 課題詳細画面
 
-<img width="896" height="1828" alt="S__19922953_0" src="https://github.com/user-attachments/assets/78ae605f-bcff-48b6-bba5-64d5ac676118" />
+<img width="222" height="480" alt="S__19922953_0" src="https://github.com/user-attachments/assets/78ae605f-bcff-48b6-bba5-64d5ac676118" />
 
 ### 統計情報画面
 
-<img width="892" height="1835" alt="S__19922955_0" src="https://github.com/user-attachments/assets/d3f5a5e7-45d6-41ab-bdbc-3d6d90beac7e" />
+<img width="222" height="480" alt="S__19922955_0" src="https://github.com/user-attachments/assets/d3f5a5e7-45d6-41ab-bdbc-3d6d90beac7e" />
 
 ### プロフィール入力画面
 
-<img width="894" height="1830" alt="S__19922951_0" src="https://github.com/user-attachments/assets/b853f39a-f7d9-42b5-8ee6-980dace80249" />
+<img width="222" height="480" alt="S__19922951_0" src="https://github.com/user-attachments/assets/b853f39a-f7d9-42b5-8ee6-980dace80249" />
 
 ---
 
