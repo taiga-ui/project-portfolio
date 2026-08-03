@@ -89,7 +89,7 @@ stepinでは、「絶対に継続できる日記アプリ」というコンセ�
 
 ### スクリーンショット3
 
-<img width="224" height="480" alt="画像3" src="https://github.com/user-attachments/assets/db481f33-05aa-4855-8e34-db15d8c1ac18" />
+<img width="222" height="480" alt="画像3" src="https://github.com/user-attachments/assets/db481f33-05aa-4855-8e34-db15d8c1ac18" />
 
 ---
 
