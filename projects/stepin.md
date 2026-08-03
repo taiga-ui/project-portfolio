@@ -79,21 +79,17 @@ stepinでは、「絶対に継続できる日記アプリ」というコンセ�
 
 # 📷 Screenshots
 
-### ホーム画面
+### スクリーンショット1
 
-（画像）
+<img width="222" height="480" alt="画像1" src="https://github.com/user-attachments/assets/a5135e20-0022-481c-8f19-bce657f57424" />
 
-### 日記入力画面
+### スクリーンショット2
 
-（画像）
+<img width="222" height="480" alt="画像2" src="https://github.com/user-attachments/assets/e06ad873-036b-4a73-ab4b-cfbee57c5cc7" />
 
-### 設定画面
+### スクリーンショット3
 
-（画像）
-
-### ストリーク画面
-
-（画像）
+<img width="224" height="480" alt="画像3" src="https://github.com/user-attachments/assets/db481f33-05aa-4855-8e34-db15d8c1ac18" />
 
 ---
 
