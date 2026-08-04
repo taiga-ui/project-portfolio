@@ -113,19 +113,19 @@ ReactのStateを用いて通知対象カテゴリーを管理し、Propsを介�
 
 ### ホーム画面
 
-（画像）
-
-### AIチャット
-
-（画像）
-
-### 通知設定画面
-
-（画像）
+<img width="222" height="480" alt="S__21569539_0" src="https://github.com/user-attachments/assets/2624e5db-7519-4eff-83e3-9a089bdd4cc4" />
 
 ### ニュース詳細画面
 
-（画像）
+<img width="222" height="480" alt="S__21569541_0" src="https://github.com/user-attachments/assets/5fbb1af6-01c4-4bfb-b6e0-552720e61eca" />
+
+### AIチャット
+
+<img width="222" height="480" alt="S__21569542_0" src="https://github.com/user-attachments/assets/38e93545-a162-4e2e-8efc-05fb46c9607a" />
+
+### 通知設定画面
+
+<img width="222" height="480" alt="S__21569542_0" src="https://github.com/user-attachments/assets/d79c4cb5-0676-4ef5-8518-f2fedc3be409" />
 
 ---
 
