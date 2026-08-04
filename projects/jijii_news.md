@@ -13,8 +13,8 @@
 |項目|内容|
 |---|---|
 |プロジェクト名|Jijii News|
-|開発形態|チーム開発（4名）|
-|開発期間|約1週間（AI Hackathon Origin 2026）|
+|開発形態|チーム開発（5名）|
+|開発期間|約3日（AI Hackathon Origin 2026）|
 |担当|通知設定機能・設定画面UI改善|
 |使用技術|Next.js / TypeScript / Web Push Notifications / Vercel / Git / GitHub|
 
