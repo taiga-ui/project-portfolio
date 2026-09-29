@@ -8,16 +8,6 @@
 
 ---
 
-## 🔗 Repository
-
-> サークルのPublic Repositoryで管理されています。
-
-**GitHub Repository**
-
-[GitHubはこちら](https://github.com/arukuArupaka/unique_diary)
-
----
-
 ## 📋 Project Information
 
 |項目|内容|
@@ -93,9 +83,19 @@ stepinでは、「絶対に継続できる日記アプリ」というコンセ�
 
 ---
 
+## 🔗 Repository
+
+> サークルのPublic Repositoryで管理されています。
+
+**GitHub Repository**
+
+[GitHubはこちら](https://github.com/arukuArupaka/unique_diary)
+
+---
+
 ## 📝 Note
 
-このプロジェクトはサークルでのチーム開発として実施しました。
+このプロジェクトはサークルでの初めてのチーム開発として実施しました。
 
 プロジェクト全体の概要や機能一覧についてはサークルのREADMEに記載されているため、本ページでは**私が担当した内容や工夫した点**を中心にまとめています。
 
