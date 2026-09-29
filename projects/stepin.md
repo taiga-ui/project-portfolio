@@ -8,7 +8,7 @@
 
 ---
 
-## 📋 Project Information
+# 📋 Project Information
 
 |項目|内容|
 |---|---|
