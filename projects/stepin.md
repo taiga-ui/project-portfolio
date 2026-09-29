@@ -8,7 +8,7 @@
 
 ---
 
-# 📋 Project Information
+## 📋 Project Information
 
 |項目|内容|
 |---|---|
@@ -19,7 +19,7 @@
 
 ---
 
-# 👨‍💻 My Contributions
+## 👨‍💻 My Contributions
 
 主に以下の機能の設計・実装を担当しました。
 
@@ -55,7 +55,7 @@
 
 ---
 
-# 💡 What I Focused On
+## 💡 What I Focused On
 
 ## ユーザーが続けたくなる体験を意識した実装
 
@@ -67,7 +67,7 @@ stepinでは、「絶対に継続できる日記アプリ」というコンセ�
 
 ---
 
-# 📷 Screenshots
+## 📷 Screenshots
 
 ### スクリーンショット1
 
