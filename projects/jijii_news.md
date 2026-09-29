@@ -8,7 +8,7 @@
 
 ---
 
-## 📋 Project Overview
+## 📋 Project Information
 
 |項目|内容|
 |---|---|
@@ -97,18 +97,6 @@ ReactのStateを用いて通知対象カテゴリーを管理し、Propsを介�
 
 ---
 
-## 🔗 Links
-
-### Repository
-
-[GitHubはこちら](https://github.com/Tanaka2006/jijii_news)
-
-### Demo
-
-[アプリを試す](https://ai-hackathon-lemon.vercel.app/)
-
----
-
 ## 📷 Screenshots
 
 ### ホーム画面
@@ -126,6 +114,18 @@ ReactのStateを用いて通知対象カテゴリーを管理し、Propsを介�
 ### 通知設定画面
 
 <img width="222" height="480" alt="S__21569542_0" src="https://github.com/user-attachments/assets/d79c4cb5-0676-4ef5-8518-f2fedc3be409" />
+
+---
+
+## 🔗 Links
+
+### Repository
+
+[GitHubはこちら](https://github.com/Tanaka2006/jijii_news)
+
+### Demo
+
+[アプリを試す](https://ai-hackathon-lemon.vercel.app/)
 
 ---
 
