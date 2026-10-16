@@ -12,7 +12,7 @@
 | **開発形態** | チーム開発（4名） |
 | **開発期間** | 約6か月 |
 | **役割** | フロントエンド実装 |
-| **使用技術** | React Native / TypeScript / Firebase / Git / GitHub |
+| **使用技術** | React Native / TypeScript  Git / GitHub |
 
 ---
 
